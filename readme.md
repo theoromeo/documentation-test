@@ -7,7 +7,7 @@
 * [Docs](./docs.md)
     * [Anything ](docs.md#-always)
     * [Always](docs.md#-always)
-    * [Works](docs.md#️-works) 
+    * [Works](docs.md#-Works) 
 
 
 ## 😅 Everything Is Here
