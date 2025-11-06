@@ -4,6 +4,11 @@
 * [Everything](#-everything-is-here)
 * [nothing](#-nothing-is-here)
 
+* [Docs](./docs.md)
+    * [Anything ](docs.md#-always)
+    * [Always](docs.md#-always)
+    * [Works](docs.md#️-works) 
+
 
 ## 😅 Everything Is Here
 Artificial intelligence began as a question more than a technology: can thought itself be engineered? In the 1950s, early pioneers like Alan Turing and John McCarthy imagined machines that could reason abstractly, not just calculate. The first generation of AI systems followed what was called symbolic reasoning—they represented knowledge as symbols and manipulated those symbols through logic, much like humans perform deduction. The idea was elegant but brittle. Symbolic AI could play chess but could not recognize a cat. It reasoned about the world but did not perceive it.
