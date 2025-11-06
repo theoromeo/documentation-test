@@ -1,3 +1,3 @@
 <?php
 
-`cd documentation-test && git pull`
+`cd documentation-test && git pull`;
