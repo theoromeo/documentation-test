@@ -4,7 +4,7 @@
 * [Everything](#-everything-is-here)
 * [nothing](#-nothing-is-here)
 
-* [Docs](./docs.md)
+* [Docs](./Docs.md)
     * [Anything ](docs.md#-always)
     * [Always](docs.md#-always)
     * [Works](docs.md#-works) 
